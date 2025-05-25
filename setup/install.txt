@@ -11,6 +11,7 @@ CONDA WAY
 2 pip install crewai
 3 pip install crewai-tools
 4 pip install -e.
+5 python src\researcher_content\main.py
 
 
 UV WAY
